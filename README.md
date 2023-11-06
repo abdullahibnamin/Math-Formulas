@@ -78,3 +78,22 @@ $sinC + sinD = 2sin\frac{C+D}{2}cos\frac{C-D}{2}$
 $sinC - sinD = 2cos\frac{C+D}{2}sin\frac{C-D}{2}$  
 $cosC + cosD = 2cos\frac{C+D}{2}cos\frac{C-D}{2}$  
 $cosC - cosD = 2sin\frac{C+D}{2}sin\frac{D-C}{2}$
+
+
+
+### 8. Double Angle Formula
+sin2A = 2sinAcosA  
+$sin2A = \frac{2tanA}{1 + tan^{2}A}$  
+
+$cos2A = cos^{2}A - sin^{2}A$  
+$cos2A = 2cos^{2} - 1$  
+$cos2A = 1- 2sin^{2}$  
+$cos2A = \frac{1 - tan^{2}A}{1 + tan^{2}A}$  
+
+$tan2A = \frac{2tanA}{1 - tan^{2}A}$  
+$cot2A = \frac{cot^{2}A - 1}{2cotA}$
+
+$sin^{2}A = \frac{1}{2}(1-cos2A)$  
+$cos^{2}A = \frac{1}{2}(1+cos2A)$  
+$sinAcosA = \frac{1}{2}(sin2A)$
+
