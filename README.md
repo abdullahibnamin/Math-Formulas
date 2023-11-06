@@ -110,7 +110,19 @@ $tan^{3}A = 3tanA + tan3A(3tan^{2}A - 1)$
 $cot^{3}A = 3cotA + cot3A(3cot^{2}A - 1)$  
 
 ### 10. Equation
+$sin\theta = sin\alpha$ then $\theta = n\pi+(-1)^{n} \alpha $  
+$cos\theta = cos\alpha$ then $\theta = 2n\pi \pm \alpha $  
+$tan\theta = tan\alpha$ then $\theta = n\pi + \alpha $  
 
+
+$sin\theta = 0$ then $\theta = n\pi $  
+$cos\theta = 0$ then $\theta = \frac{\pi}{2}(2n+1)$  
+
+
+$sin\theta = \pm 1$ then $\theta = \frac{\pi}{2}(4n \pm 1)$  
+$cos\theta = 1$ then $\theta = 2n \pi$  
+$cos\theta = -1$ then $\theta = \pi(2n+1)$  
+$tan\theta = \pm 1$ then $\theta = n\pi \pm \frac{\pi}{4} $  
 
 
 ### 11. Inverse Function
