@@ -124,17 +124,9 @@ cos(A+B) \cdot cos(A-B) = cos^{2}A - sin^{2}B \\
 \end{align*}
 $$
 
-$$
-\begin{align*}
-tan(A+B) \cdot tan(A-B) = \frac{tan^{2}A-tan^{2}B}{1-tan^{2}A \cdot tan^{2}B}
-\end{align*}
-$$
+14. $tan(A+B) \cdot tan(A-B) = \frac{tan^{2}A-tan^{2}B}{1-tan^{2}A \cdot tan^{2}B}$
 
-$$
-\begin{align*}
-cot(A+B) \cdot cot(A-B) = \frac{1- cot^{2}A \cdot cot^{2}B}{cot^{2}A - cot^{2}B}
-\end{align*}
-$$
+15. $cot(A+B) \cdot cot(A-B) = \frac{1- cot^{2}A \cdot cot^{2}B}{cot^{2}A - cot^{2}B}$
 
 
 ### 8. Addition & Subtraction
