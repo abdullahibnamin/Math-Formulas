@@ -104,7 +104,7 @@ $tan^{-1}1 = \frac{\pi}{4}$
 
 9. $tan(A-B) = \frac{tanA - tanB} {1 + tanA \cdot tanB}$  
 
-10. $cot(A+B) = \frac{cot \cdot AcotB - 1} {cotB + cotA}$  
+10. $cot(A+B) = \frac{cotA \cdot cotB - 1} {cotB + cotA}$  
 
 11. $cot(A-B) = \frac{cotA \cdot cotB + 1} {cotB - cotA}$  
 
