@@ -137,13 +137,13 @@ $$
 
 
 ### 9. Transformation Method
-20. $sinC + sinD = 2sin\frac{C+D}{2} \cdot cos\frac{C-D}{2}$ 
+20. $sinC + sinD = 2 \cdot sin\frac{C+D}{2} \cdot cos\frac{C-D}{2}$ 
 
-21. $sinC - sinD = 2cos\frac{C+D}{2} \cdot sin\frac{C-D}{2}$  
+21. $sinC - sinD = 2 \cdot cos\frac{C+D}{2} \cdot sin\frac{C-D}{2}$  
 
-22. $cosC + cosD = 2cos\frac{C+D}{2} \cdot cos\frac{C-D}{2}$  
+22. $cosC + cosD = 2 \cdot cos\frac{C+D}{2} \cdot cos\frac{C-D}{2}$  
 
-23. $cosC - cosD = 2sin\frac{C+D}{2} \cdot sin\frac{D-C}{2}$
+23. $cosC - cosD = 2 \cdot sin\frac{C+D}{2} \cdot sin\frac{D-C}{2}$
 
 
 
