@@ -112,27 +112,27 @@ $tan^{-1}1 = \frac{\pi}{4}$
 ### 7. Multiplication Method
 $$
 \begin{align*}
-sin(A+B)sin(A-B) = sin^{2}A - sin^{2}B \\
+sin(A+B) \cdot sin(A-B) = sin^{2}A - sin^{2}B \\
 = cos^{2}B - cos^{2}A
 \end{align*}
 $$
 
 $$
 \begin{align*}
-cos(A+B)cos(A-B) = cos^{2}A - sin^{2}B \\
+cos(A+B) \cdot cos(A-B) = cos^{2}A - sin^{2}B \\
 = cos^{2}B - sin^{2}A
 \end{align*}
 $$
 
 $$
 \begin{align*}
-tan(A+B)tan(A-B) = \frac{tan^{2}A-tan^{2}B}{1-tan^{2}Atan^{2}B}
+tan(A+B) \cdot tan(A-B) = \frac{tan^{2}A-tan^{2}B}{1-tan^{2}A \cdot tan^{2}B}
 \end{align*}
 $$
 
 $$
 \begin{align*}
-cot(A+B)cot(A-B) = \frac{1- cot^{2}Acot^{2}B}{cot^{2}A - cot^{2}B}
+cot(A+B) \cdot cot(A-B) = \frac{1- cot^{2}A \cdot cot^{2}B}{cot^{2}A - cot^{2}B}
 \end{align*}
 $$
 
