@@ -133,17 +133,17 @@ $$
 16. $sin(A+B) + sin(A-B) = 2sinA \cdot cosB$  
 17. $sin(A+B) - sin(A-B) = 2cosA \cdot sinB$  
 18. $cos(A+B) + cos(A-B) = 2cosA \cdot cosB$  
-19. $cos(A-B) - cos(A-B) = 2sinA \cdot sinB$
+19. $cos(A-B) - cos(A+B) = 2sinA \cdot sinB$
 
 
 ### 9. Transformation Method
-20. $sinC + sinD = 2sin\frac{C+D}{2}cos\frac{C-D}{2}$ 
+20. $sinC + sinD = 2sin\frac{C+D}{2} \cdot cos\frac{C-D}{2}$ 
 
-21. $sinC - sinD = 2cos\frac{C+D}{2}sin\frac{C-D}{2}$  
+21. $sinC - sinD = 2cos\frac{C+D}{2} \cdot sin\frac{C-D}{2}$  
 
-22. $cosC + cosD = 2cos\frac{C+D}{2}cos\frac{C-D}{2}$  
+22. $cosC + cosD = 2cos\frac{C+D}{2} \cdot cos\frac{C-D}{2}$  
 
-23. $cosC - cosD = 2sin\frac{C+D}{2}sin\frac{D-C}{2}$
+23. $cosC - cosD = 2sin\frac{C+D}{2} \cdot sin\frac{D-C}{2}$
 
 
 
