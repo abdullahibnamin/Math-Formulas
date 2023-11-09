@@ -71,8 +71,7 @@ Date: 05-11-2023 8:28 PM
 
 
 ### 2. Integration Formulas
-
-
+Todo    
 
 ### 3. Standard Angle Value
 ||$0^{\circ}$|$30^{\circ}$|$45^{\circ}$|$60^{\circ}$|$90^{\circ}$|$120^{\circ}$|$240^{\circ}$|
