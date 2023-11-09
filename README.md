@@ -152,8 +152,8 @@ $$
     ii) $sin2A = \frac{2tanA}{1 + tan^{2}A}$  
 
 25. i) $cos2A = cos^{2}A - sin^{2}A$  
-    ii) $cos2A = 2cos^{2} - 1$  
-    iii) $cos2A = 1- 2sin^{2}$  
+    ii) $cos2A = 2cos^{2}A - 1$  
+    iii) $cos2A = 1- 2sin^{2}A$  
     iv) $cos2A = \frac{1 - tan^{2}A}{1 + tan^{2}A}$  
 
 26. i) $tan2A = \frac{2tanA}{1 - tan^{2}A}$  
