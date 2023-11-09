@@ -176,7 +176,7 @@ $$
     iv) $cot^{3}A = 3cotA + cot3A(3cot^{2}A - 1)$  
 
 ### 12. Equation
-30. i) $sin\theta = sin\alpha$ then $\theta = n\pi+(-1)^{n} \alpha $  
+30. i) $sin\theta = sin\alpha$ then $\theta = n\pi+(-1)^{n} \cdot \alpha $  
     ii) $cos\theta = cos\alpha$ then $\theta = 2n\pi \pm \alpha $  
     iii) $tan\theta = tan\alpha$ then $\theta = n\pi + \alpha $  
 
