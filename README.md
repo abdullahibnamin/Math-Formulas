@@ -93,10 +93,10 @@ $tan^{-1}1 = \frac{\pi}{4}$
 
 
 ### 5. Fundamental Theorem
-4. sin(A+B) = sinAcosB + cosAsinB  
-5. sin(A-B) = sinAcosB - cosAsinB  
-6. cos(A+B) = cosAcosB - sinAsinB  
-7. cos(A-B) = cosAcosB + sinAsinB
+4. $sin(A+B) = sinA \cdot cosB + cosA \cdot sinB$  
+5. $sin(A-B) = sinA \cdot cosB - cosA \cdot sinB$  
+6. $cos(A+B) = cosA \cdot cosB - sinA \cdot sinB$  
+7. $cos(A-B) = cosA \cdot cosB + sinA \cdot sinB$
 
 
 ### 6. Division Method
