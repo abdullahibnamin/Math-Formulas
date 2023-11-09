@@ -196,7 +196,7 @@ $$
     
     ii) $sin^{-1}x \pm sin^{-1}y = sin^{-1}(x\sqrt{1-y^{2}} \pm y\sqrt{1-x^{2}})$  
     
-    iii) $cos^{-1}x \pm cos^{-1}y = cos^{-1} \{ xy \mp \sqrt{(1-x^{2})(1-y^{2})} \}$  
+    iii) $cos^{-1}x \pm cos^{-1}y = cos^{-1} \{xy \mp \sqrt{(1-x^{2})(1-y^{2})}\}$  
 
 
 34. i) $sin^{-1}\frac{2x}{1+x^{2}} = 2tan^{-1}x$  
