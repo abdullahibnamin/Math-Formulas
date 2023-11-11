@@ -3,9 +3,13 @@ Title: Math Formulas
 Date: 05-11-2023 8:28 PM
 ---
 # Other Links
-|  |Links|
-|--|--|
-|Mathematical Symbols| 1. https://mathvault.ca/hub/higher-math/math-symbols/  2. https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html|
+
+### Mathematical Symbols
+ - https://mathvault.ca/hub/higher-math/math-symbols/
+ - https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html
+ - https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject
+
+
 
 
 # Math Formulas
