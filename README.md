@@ -5,11 +5,30 @@ Date: 05-11-2023 8:28 PM
 # Other Links
 
 ### Mathematical Symbols
+ - https://en.wikipedia.org/wiki/History_of_mathematical_notation
  - https://mathvault.ca/hub/higher-math/math-symbols/
  - https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html
  - https://en.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject
-
-
+ - https://simple.wikipedia.org/wiki/List_of_mathematical_symbols
+ - https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols
+ - https://simple.wikipedia.org/wiki/Mathematical_constant
+ - https://en.wikipedia.org/wiki/Table_of_mathematical_symbols_by_introduction_date
+ - https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols
+ - https://en.wikipedia.org/wiki/Latin_letters_used_in_mathematics,_science,_and_engineering
+ - https://en.wikipedia.org/wiki/Mathematical_notation
+ - https://en.wikipedia.org/wiki/List_of_letters_used_in_mathematics,_science,_and_engineering
+ - https://en.wikipedia.org/wiki/List_of_logic_symbols
+ - https://en.wikipedia.org/wiki/Math_symbol_brackets
+ - https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering
+ - https://byjus.com/maths/math-symbols/
+ - http://taggedwiki.zubiaga.org/new_content/36854aef8d42af77484e49ad008f8068
+ - https://en.wikipedia.org/wiki/Plus%E2%80%93minus_sign
+ - https://encyclopediaofmath.org/wiki/Mathematical_symbols
+ - https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+ - https://www.johndcook.com/blog/math-symbols/
+ - https://en.wikipedia.org/wiki/Category:Mathematical_symbols
+ - https://en.wikipedia.org/wiki/Sign_(mathematics)
+ - https://en.wikipedia.org/wiki/Converse_(logic)
 
 
 # Math Formulas
