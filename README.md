@@ -2,10 +2,10 @@
 Title: Math Formulas
 Date: 05-11-2023 8:28 PM
 ---
-# Importent Links
+# Other Links
 |  |Links|
 |--|--|
-|Mathematical Symbols| - https://mathvault.ca/hub/higher-math/math-symbols/   - https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html|
+|Mathematical Symbols| 1. https://mathvault.ca/hub/higher-math/math-symbols/  2. https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html|
 
 
 # Math Formulas
@@ -108,11 +108,11 @@ Date: 05-11-2023 8:28 PM
 
 
 ### 3. Standard Angle Value
-||$0^{\circ}$|$30^{\circ}$|$45^{\circ}$|$60^{\circ}$|$90^{\circ}$|$120^{\circ}$|$240^{\circ}$|
-|--|--|--|--|--|--|--|--|
-|sin | 0 | $\frac{1}{2}$ | $\frac{1}{\sqrt{2}}$ | $\frac{\sqrt{3}}{2}$ | 1 | $\frac{\sqrt{3}}{2}$ | - $\frac{\sqrt{3}}{2}$ |
-|cos | 1 | $\frac{\sqrt{3}}{2}$ | $\frac{1}{\sqrt{2}}$ | $\frac{1}{2}$ | 0 | - $\frac{1}{2}$ | - $\frac{1}{2}$ |
-|tan|0| $\frac{1}{\sqrt{3}}$ | 1 | $\sqrt{3}$ | undefined | - $\sqrt{3}$ | $\sqrt{3}$ |
+|_____| $0^{\circ}$| $30^{\circ}$         | $45^{\circ}$         | $60^{\circ}$         | $90^{\circ}$| $120^{\circ}$        | $240^{\circ}$          |
+|-----|------------|----------------------|----------------------|----------------------|-------------|----------------------|------------------------|
+| sin | 0          | $\frac{1}{2}$        | $\frac{1}{\sqrt{2}}$ | $\frac{\sqrt{3}}{2}$ | 1           | $\frac{\sqrt{3}}{2}$ | - $\frac{\sqrt{3}}{2}$ |
+| cos | 1          | $\frac{\sqrt{3}}{2}$ | $\frac{1}{\sqrt{2}}$ | $\frac{1}{2}$        | 0           | - $\frac{1}{2}$      | - $\frac{1}{2}$        |
+| tan | 0          | $\frac{1}{\sqrt{3}}$ | 1                    | $\sqrt{3}$           | undefined   | - $\sqrt{3}$         | $\sqrt{3}$             |
 
 
 $sin^{-1}1 = \frac{\pi}{2}$  
