@@ -2,6 +2,11 @@
 Title: Math Formulas
 Date: 05-11-2023 8:28 PM
 ---
+# Importent Links
+|  |Links|
+|--|--|
+|Mathematical Symbols| - https://mathvault.ca/hub/higher-math/math-symbols/   - https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html|
+
 
 # Math Formulas
 
@@ -15,63 +20,92 @@ Date: 05-11-2023 8:28 PM
    
    ii) $\displaystyle \lim_{\theta \to 0} \frac{\theta}{tan\theta} = 1 $  
 
-3. i) $\displaystyle \frac{\partial}{\partial x}x^{n} = nx^{n-1}$  
+3. i) $\displaystyle \frac{d}{dx}x^{n} = nx^{n-1}$  
   
-   ii) $\displaystyle \frac{\partial}{\partial x}\frac{1}{x^{n}} = \frac{-n}{x^{n+1}}$  
+   ii) $\displaystyle \frac{d}{dx}\frac{1}{x^{n}} = \frac{-n}{x^{n+1}}$  
 
-   iii) $\displaystyle \frac{\partial}{\partial x}\sqrt{x} = \frac{1}{2\sqrt{x}}$   
+   iii) $\displaystyle \frac{d}{dx}\sqrt{x} = \frac{1}{2\sqrt{x}}$   
    
    
-4. i) $\displaystyle \frac{\partial}{\partial x}e^{x} = e^{x}$  
+4. i) $\displaystyle \frac{d}{dx}e^{x} = e^{x}$  
  
-   ii) $\displaystyle \frac{\partial}{\partial x}a^{x} = a^{x} \ln \cdot a$  
+   ii) $\displaystyle \frac{d}{dx}a^{x} = a^{x} \ln \cdot a$  
 
-5. i) $\displaystyle \frac{\partial}{\partial x}\ln x = \frac{1}{x}$  
+5. i) $\displaystyle \frac{d}{dx}\ln x = \frac{1}{x}$  
 
-   ii) $\displaystyle \frac{\partial}{\partial x}\log_a{x} = \frac{1}{x}\log_a{e}$  
+   ii) $\displaystyle \frac{d}{dx}\log_a{x} = \frac{1}{x}\log_a{e}$  
 
-6. i) $\displaystyle \frac{\partial}{\partial x}sinx = cosx$  
+6. i) $\displaystyle \frac{d}{dx}sinx = cosx$  
 
-   ii) $\displaystyle \frac{\partial}{\partial x}cosx = - sinx$  
+   ii) $\displaystyle \frac{d}{dx}cosx = - sinx$  
 
-   iii) $\displaystyle \frac{\partial}{\partial x}tanx = sec^{2}x$  
+   iii) $\displaystyle \frac{d}{dx}tanx = sec^{2}x$  
    
-   iv) $\displaystyle \frac{\partial}{\partial x}cotx = - cosec^{2}x$  
+   iv) $\displaystyle \frac{d}{dx}cotx = - cosec^{2}x$  
    
-   v) $\displaystyle \frac{\partial}{\partial x}secx = secx \cdot tanx$  
+   v) $\displaystyle \frac{d}{dx}secx = secx \cdot tanx$  
    
-   vi) $\displaystyle \frac{\partial}{\partial x}cosecx = - cosecx \cdot cotx$  
+   vi) $\displaystyle \frac{d}{dx}cosecx = - cosecx \cdot cotx$  
 
 
-7. i) $\displaystyle \frac{\partial}{\partial x}sin^{-1}x = \frac{1}{\sqrt{1-x^{2}}}$  
+7. i) $\displaystyle \frac{d}{dx}sin^{-1}x = \frac{1}{\sqrt{1-x^{2}}}$  
    
-   ii) $\displaystyle \frac{\partial}{\partial x}cos^{-1}x = \frac{- 1}{\sqrt{1-x^{2}}}$  
+   ii) $\displaystyle \frac{d}{dx}cos^{-1}x = \frac{- 1}{\sqrt{1-x^{2}}}$  
    
-   iii) $\displaystyle \frac{\partial}{\partial x}tan^{-1}x = \frac{1}{1+x^{2}}$  
+   iii) $\displaystyle \frac{d}{dx}tan^{-1}x = \frac{1}{1+x^{2}}$  
 
-   iv) $\displaystyle \frac{\partial}{\partial x}cot^{-1}x = \frac{- 1}{1+x^{2}}$  
+   iv) $\displaystyle \frac{d}{dx}cot^{-1}x = \frac{- 1}{1+x^{2}}$  
 
-   v) $\displaystyle \frac{\partial}{\partial x}sec^{-1}x = \frac{- 1}{x \sqrt{x^{2} - 1}}$  
+   v) $\displaystyle \frac{d}{dx}sec^{-1}x = \frac{- 1}{x \sqrt{x^{2} - 1}}$  
    
-   vi) $\displaystyle \frac{\partial}{\partial x}cosec^{-1}x = \frac{- 1}{x \sqrt{x^{2} - 1}}$  
+   vi) $\displaystyle \frac{d}{dx}cosec^{-1}x = \frac{- 1}{x \sqrt{x^{2} - 1}}$  
 
-8. $\displaystyle \frac{\partial}{\partial x}(u-v+w) = \frac{\partial}{\partial x} u - \frac{\partial}{\partial x} v + \frac{\partial}{\partial x} w$  
+8. $\displaystyle \frac{d}{dx}(u-v+w) = \frac{d}{dx} u - \frac{d}{dx} v + \frac{d}{dx} w$  
 
-9. $\displaystyle \frac{\partial}{\partial x}(u \cdot v) = u \cdot \frac{\partial}{\partial x}(v) + v \cdot \frac{\partial}{\partial x} (u) $  
+9. $\displaystyle \frac{d}{dx}(u \cdot v) = u \cdot \frac{d}{dx}(v) + v \cdot \frac{d}{dx} (u) $  
 
-10. $\displaystyle \frac{\partial}{\partial x}\frac{u}{v} = \frac{v \cdot \frac{\partial}{\partial x}(u) - u \cdot \frac{\partial}{\partial x} (v)}{v^{2}} $  
+10. $\displaystyle \frac{d}{dx}\frac{u}{v} = \frac{v \cdot \frac{d}{dx}(u) - u \cdot \frac{d}{dx} (v)}{v^{2}} $  
 
-11. $\displaystyle \frac{\partial}{\partial x} e^{x} \cdot u = e^{x}(u+\frac{\partial}{\partial x} \cdot u)$
+11. $\displaystyle \frac{d}{dx} e^{x} \cdot u = e^{x}(u+\frac{d}{dx} \cdot u)$
 
-12. i) $\displaystyle \frac{\partial}{\partial x} u^{v} = u^{v} \cdot \frac{\partial}{\partial x}(v \cdot \ln u)$  
+12. i) $\displaystyle \frac{d}{dx} u^{v} = u^{v} \cdot \frac{d}{dx}(v \cdot \ln u)$  
     
-    ii) $\displaystyle \frac{\partial}{\partial x} x^{x} = x^{x} (\ln x + 1)$  
+    ii) $\displaystyle \frac{d}{dx} x^{x} = x^{x} (\ln x + 1)$  
      
 
-
-
 ### 2. Integration Formulas
-Todo    
+13. i) $\int x^{n} dx = \frac{x^{n+1}}{n+1}$  
+    ii) $\int \frac{1}{x^{n}} dx = \frac{-1}{(n-1)x^{n-1}}$  
+
+14. i) $\int e^{x} dx = e^{x}$  
+    ii) $\int a^{x} dx = \frac {a^{x}}{\ln a}$  
+
+15. i) $\int \frac{1}{x} dx = \ln x$  
+    ii) $\int \ln x dx = x \cdot \ln x - x$  
+
+16. i) $\int sinx dx = - cosx$  
+    ii) $\int cosx dx = sinx$  
+
+17. i) $\int tanx dx = - \ln cosx = \ln secx$  
+    ii) $\int cotx dx = \ln sinx = - \ln cosecx$  
+
+18. i) $\int secx dx = \ln tan (\frac{\pi}{4} + \frac{x}{2})$  
+    ii) $\int cosecx dx = \ln tan \frac{x}{2}$  
+
+19. i) $\int sec^{2}x dx = tanx$  
+    ii) $\int cosec^{2}x dx = - cotx $  
+
+20. i) $\int secx \cdot tanx dx = secx$  
+    ii) $\int cosecx \cdot cotx dx = - cosecx$  
+
+21. i) $\int \frac{dx}{a^{2} + x^{2}} = \frac{1}{a} tan^{-1}\frac{x}{a}$  
+    ii) $\int \frac{dx}{\sqrt{a^{2} - x^{2}}} = sin^{-1}\frac{x}{a}$  
+
+22. i) $\int \frac{dx}{a^{2} - x^{2}} = \frac{1}{2a} \ln \frac{a+x}{a-x}$  
+    ii) $\int \frac{dx}{x^{2} - a^{2}} = \frac{1}{2a} \ln \frac{x-a}{x+a}$ 
+
+23. $\int (u \cdot v) dx = u \cdot \int v \cdot dx - \int (\frac{d}{dx}u \cdot \int v \cdot dx) dx $  
+
 
 ### 3. Standard Angle Value
 ||$0^{\circ}$|$30^{\circ}$|$45^{\circ}$|$60^{\circ}$|$90^{\circ}$|$120^{\circ}$|$240^{\circ}$|
